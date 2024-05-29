@@ -1,2 +1,3 @@
 # amazon-checkout-form
-checkout form built with html, and css flexbox
+this project was built with just html, and css flexbox.
+it comforms to responsiveness using media queries in css.
